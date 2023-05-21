@@ -66,6 +66,7 @@ const Posts: FC<IPosts> = ({ posts }) => {
                         </ImageList>
                     )}
 
+
                 </Box>
             ))}</>
     )

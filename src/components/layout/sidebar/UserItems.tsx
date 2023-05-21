@@ -16,7 +16,6 @@ const UserItems: FC = () => {
     <Card
       sx={{
         padding: 2,
-        marginTop: 5,
       }}>
       {users.map(user =>
 

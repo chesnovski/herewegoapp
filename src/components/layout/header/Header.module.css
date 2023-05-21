@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.imgWtrapper {
+  width: 100%;
+}
+
+.header > img {
+  width: 100%;
+  height: 10px;
+}
